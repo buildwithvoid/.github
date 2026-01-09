@@ -1,12 +1,57 @@
-## Hi there 👋
+# VOID Technology
 
-<!--
+We build software that removes friction.
 
-**Here are some ideas to get you started:**
+VOID Technology helps companies replace manual work, brittle systems, and half-solutions with solid, maintainable software.  
+Less noise. Fewer moving parts. More flow.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## What we do
+
+- Backend-heavy web development  
+- Custom integrations (ERP, payment, logistics, APIs)  
+- Automation of repetitive workflows  
+- Performance, stability, and technical cleanup  
+- Fractional CTO / technical responsibility
+
+---
+
+## Tech we work with
+
+- PHP (Laravel, WordPress, WooCommerce, Magento)
+- JavaScript (Vue, Alpine)
+- MySQL / PostgreSQL
+- Linux, Docker, CI/CD
+- APIs, scraping, background jobs, automation
+
+We care more about **fit and longevity** than trends.
+
+---
+
+## How we work
+
+- Pragmatic over perfect  
+- Boring solutions beat clever ones  
+- Clear ownership beats endless meetings  
+- If it can be automated, it should be
+
+---
+
+## Open source
+
+This profile contains:
+- Internal tools we’ve cleaned up enough to share
+- Small utilities that solve real problems
+- Experiments that earned their place
+
+No vanity repos. If it’s here, it’s used.
+
+---
+
+## Contact
+
+🌐 https://void.dk  
+💬 hello@void.dk
+
+Based in Denmark. Working remotely.
