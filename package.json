@@ -1,0 +1,16 @@
+{
+  "name": "buildwithvoid-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling for editing and previewing the VOID Technology GitHub organization profile (profile/README.md).",
+  "scripts": {
+    "lint": "markdownlint \"**/*.md\" --ignore node_modules",
+    "lint:fix": "markdownlint \"**/*.md\" --ignore node_modules --fix",
+    "preview": "markserv -a 0.0.0.0 -p 8080 ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.49.1",
+    "markserv": "^1.17.4"
+  }
+}
