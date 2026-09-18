@@ -1,0 +1,11 @@
+{
+  "name": "VOID Technology GitHub Profile",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "profile-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [8080]
+}
